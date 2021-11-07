@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">voice_lesson</string>
+    <string name="text_1">Нажми на кнопку и скажи слово из нижеперечисленных: \n- кошка \n- рыба \n- горох \n- змея</string>
+</resources>
